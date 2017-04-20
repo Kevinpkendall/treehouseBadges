@@ -1,0 +1,27 @@
+#reportCard {
+    text-align: center;
+
+}
+
+.badgeImage {
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+}
+
+/*.hover {*/
+    /*opacity: 0.1;*/
+/*}*/
+
+#gallery {
+    width: 50%;
+    margin: auto;
+}
+
+#gallery li {
+    display: inline-block;
+}
+
+#gallery li img:hover {
+    opacity: .3;
+}
